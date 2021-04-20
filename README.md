@@ -1,7 +1,8 @@
-### Hi there 👋 I'm lenghui in taobao
+### Hi there 👋 I'm iloveyou11
 
-大家好~ 我是 杨佩（花名 冷卉），目前在杭州，是阿里淘系技术部-频道与D2C智能团队 F(x) Team团队成员，开源爱好者，目前正致力于研究如何使用智能化的方式为业务生产进行赋能。
+大家好~ 我是 iloveyou11，开源爱好者，专注于前端方向。
 
-对前端智能化感兴趣的朋友们，可以关注一下哦~ 会经常分享一些文章和思考：
-- [技术博客](https://iloveyou11.github.io/)
-- [掘金-Phillis](https://juejin.cn/user/254742428124055/activities)
+对前端感兴趣的朋友们，可以关注一下我哦~ 会经常分享一些文章和思考：
+
+- [技术博客](https://github.com/iloveyou11/learning-blog)
+- [掘金账号](https://juejin.cn/user/254742428124055/activities)
